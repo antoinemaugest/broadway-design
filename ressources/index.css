@@ -6,9 +6,6 @@ html, body {
   font-family: Helvetica;
 }
 
-* {
-  border: 1px red solid;
-}
 
 #banner {
   display: flex;
